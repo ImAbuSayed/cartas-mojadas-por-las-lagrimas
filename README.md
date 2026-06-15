@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cartas-mojadas-por-las-lagrimas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Cartas mojadas por las lágrimas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-mojadas-por-las-lagrimas/) |
+| **Get License** | [Secure Licensing Rights for Cartas mojadas por las lágrimas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-mojadas-por-las-lagrimas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Cartas mojadas por las lágrimas que ya dejé secar
+> Porque esta noche en la disco te voy a devorar
+> Tú tienes ese fuego que no se puede apagar
+> Un flow de Barcelona que me invita a pecar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
