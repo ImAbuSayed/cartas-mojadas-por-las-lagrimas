@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cartas mojadas por las lágrimas
+
+This log tracks the cryptographic history and versioning for the song **Cartas mojadas por las lágrimas** (cartas-mojadas-por-las-lagrimas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:25:22.616062 | `v1` | `0c6d0ff2787084709a5d1da98ffa50651d347181cf006cf71f8c3e90e9607d8e` | `38a446a08bc3dd1eceb91c87bc03be0306ba2f69d726c6444f1c2915e7297f64` | `2026-06-15_cartas-mojadas-por-las-lagrimas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

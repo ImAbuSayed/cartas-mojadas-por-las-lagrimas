@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cartas-mojadas-por-las-lagrimas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Cartas mojadas por las lágrimas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-mojadas-por-las-lagrimas/) |
+| **Get License** | [Obtain a Music License for Cartas mojadas por las lágrimas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-mojadas-por-las-lagrimas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0c6d0ff2787084709a5d1da98ffa50651d347181cf006cf71f8c3e90e9607d8e` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
